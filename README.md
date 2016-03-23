@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Tarrasch/zsh-bd.png)](https://travis-ci.org/Tarrasch/zsh-bd)
+[[https://travis-ci.org/Tarrasch/zsh-bd.png]]
 
 # zsh-bd
 
